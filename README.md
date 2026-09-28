@@ -14,4 +14,4 @@ This project simulates an industrial Predictive Maintenance (PdM) ecosystem desi
 
 ## Digital System Links
 * **Wokwi Core Circuit Simulation:** [https://wokwi.com/projects/475941984302170113]
-* **Google Colab Cloud Execution Code:** [https://colab.research.google.com/drive/1JserWZxVMuBNhcCb9ftiI7ahtycH8xsg?usp=sharing]
+* **Google Colab Cloud Execution Code:** [https://colab.research.google.com/drive/1Kfl2ENKIdIyjaqrp2857afsuD3OqTPbQ?usp=sharing]
